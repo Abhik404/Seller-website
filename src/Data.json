@@ -1,0 +1,287 @@
+[
+    {
+        "id":1,
+        "city": "New York",
+        "name": " Intersection of Broadway and 7th Ave, Manhattan, NY 10118",
+        "location": "Empire State Building",
+        "price": "$4520",
+        "icon": "images/prop1.jpg"
+    },
+    {
+        "id":2,
+        "city": "Paris",
+        "name": "Place d'Armes, 78000 Versailles (located just outside of Paris)",
+        "location": "Notre-Dame Cathedral",
+        "price": "$8200",
+        "isPopular": true,
+        "icon": "images/prop12.jpg"
+    },
+    {
+        "id":3,
+        "city": "New York",
+        "name": " Elevated park on Manhattan's West Side, starts near Gansevoort",
+        "location": "Central Park",
+        "price": "$3750",
+        "isPopular": true,
+        "icon": "images/prop3.jpg"
+    },
+    {
+        "id":4,
+        "city": "Paris",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "Arc de Triomphe",
+        "price": "$8760",
+        "icon": "images/prop11.jpg"
+    },
+    {
+        "id":5,
+        "city": "Mumbai",
+        "name": "SK Bole Marg, Prabhadevi, Mumbai, Maharashtra 400028",
+        "location": "Juhu Beach",
+        "price": "$1100",
+        "icon": "images/prop20.jpg"
+    },
+    {
+        "id":6,
+        "city": "New York",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "Statue of Liberty",
+        "price": "$5540",
+        "isPopular": true,
+        "icon": "images/prop4.jpg"
+    },
+    {
+        "id":7,
+        "city": "New York",
+        "name": " Elevated park on Manhattan's West Side, starts near Gansevoort",
+        "location": "Brooklyn Bridge",
+        "price": "$6375",
+        "icon": "images/prop5.jpg"
+    },
+    {
+        "id":8,
+        "city": "Paris",
+        "name": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris",
+        "location": "Musée d'Orsay",
+        "price": "$2550",
+        "isPopular": true,
+        "icon": "images/prop13.jpg"
+    },
+    {
+        "id":9,
+        "city": "New York",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "Rockefeller Center",
+        "price": "$4010",
+        "isPopular": true,
+        "icon": "images/prop6.jpg"
+    },
+    {
+        "id":10,
+        "city": "New York",
+        "name": " Elevated park on Manhattan's West Side, starts near Gansevoort",
+        "location": "Brooklyn Botanic Garden",
+        "price": "$7060",
+        "icon": "images/prop7.jpg"
+    },{
+        "id":11,
+        "city": "Paris",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "The Panthéon",
+        "price": "$5020",
+        "icon": "images/prop14.jpg"
+    },
+    {
+        "id":12,
+        "city": "Paris",
+        "name": "Place d'Armes, 78000 Versailles (located just outside of Paris)",
+        "location": "Musée Rodin",
+        "price": "$5770",
+        "isPopular": true,
+        "icon": "images/prop15.jpg"
+    },
+    {
+        "id":13,
+        "city": "New York",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "The High Line",
+        "price": "$4002",
+        "isPopular": true,
+        "icon": "images/prop8.jpg"
+    },
+    {
+        "id":14,
+        "city": "New York",
+        "name": " Located in Brooklyn, known for its amusement park and beach",
+        "location": "Apollo Theater",
+        "price": "$7090",
+        "isPopular": true,
+        "icon": "images/prop9.jpg"
+    },
+    {
+        "id":15,
+        "city": "Mumbai",
+        "name": "Netaji Subhash Chandra Bose Road, Marine Drive, Chowpatty,",
+        "location": "Marine Drive",
+        "price": "$8400",
+        "isPopular": true,
+        "icon": "images/prop21.jpg"
+    },
+    {
+        "id":16,
+        "city": "Mumbai",
+        "name": "Dr. Dadabhai Naoroji Rd, Fort, Mumbai, Maharashtra 400001",
+        "location": "Nehru Centre",
+        "price": "$1400",
+        "icon": "images/prop22.jpg"
+    },
+    {
+        "id":17,
+        "city": "Paris",
+        "name": "Champ de Mars, 5 Avenue Anatole France, 75007 Paris 27536",
+        "location": "Île de la Cité",
+        "price": "$3510",
+        "icon": "images/prop16.jpg"
+    },
+    {
+        "id":18,
+        "city": "Mumbai",
+        "name": "Netaji Subhash Chandra Bose Road, Marine Drive, Chowpatty,",
+        "location": "2019",
+        "price": "$4030",
+        "isPopular": true,
+        "icon": "images/prop23.jpg"
+    },
+    {
+        "id":19,
+        "city": "Paris",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "Place de la Concorde",
+        "price": "$8050",
+        "isPopular": true,
+        "icon": "images/prop17.jpg"
+    },
+    {
+        "id":20,
+        "city": "London",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536 ",
+        "location": "Trafalgar Square",
+        "price": "$3500",
+        "isPopular": true,
+        "icon": "images/prop5.jpg"
+    },
+    {
+        "id":21,
+        "city": "London",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "The Shard",
+        "price": "$8760",
+        "icon": "images/prop26.jpg"
+    },
+    {
+        "id":22,
+        "city": "New York",
+        "name": " Located in Brooklyn, known for its amusement park and beach",
+        "location": "The Flatiron Building",
+        "price": "$4000",
+        "icon": "images/prop10.jpg"
+    },
+    {
+        "id":23,
+        "city": "London",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "St. Paul's Cathedral",
+        "price": "$5540",
+        "isPopular": true,
+        "icon": "images/prop27.jpg"
+    },
+    {
+        "id":24,
+        "city": "London",
+        "name": "Riverside Building, County Hall, Westminster Bridge Rd, London",
+        "location": "The Tate Modern",
+        "price": "$6725",
+        "icon": "images/prop28.jpg"
+    },
+    {
+        "id":25,
+        "city": "London",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "Camden Market",
+        "price": "$2150",
+        "icon": "images/prop29.jpg"
+    },
+    {
+        "id":26,
+        "city": "Mumbai",
+        "name": "Dr. Dadabhai Naoroji Rd, Fort, Mumbai, Maharashtra 400001",
+        "location": "Sanjay Gandhi National Park",
+        "price": "$4060",
+        "icon": "images/prop25.jpg"
+    },
+    {
+        "id":27,
+        "city": "London",
+        "name": "Riverside Building, County Hall, Westminster Bridge Rd, London",
+        "location": "Greenwich Observatory",
+        "price": "$7003",
+        "icon": "images/prop30.jpg"
+    },{
+        "id":28,
+        "city": "London",
+        "name": "20 Deans Yd, Westminster, London SW1P 3PA  Riverside Building",
+        "location": "Kensington Palace",
+        "price": "$5050",
+        "isPopular": true,
+        "icon": "images/prop31.jpg"
+    },
+    {
+        "id":29,
+        "city": "London",
+        "name": "20 Deans Yd, Westminster, London SW1P 3PA Paul's Churchyard",
+        "location": "Westminster Abbey",
+        "price": "$5270",
+        "icon": "images/prop32.jpg"
+    },
+    {
+        "id":30,
+        "city": "Paris",
+        "name": "Place d'Armes, 78000 Versailles (located just outside of Paris)",
+        "location": "Les Invalides",
+        "price": "$4050",
+        "icon": "images/prop18.jpg"
+    },
+    {
+        "id":31,
+        "city": "London",
+        "name": "Riverside Building, County Hall, Westminster Bridge Rd, London",
+        "location": "The National Gallery",
+        "price": "$7020",
+        "icon": "images/prop8.jpg"
+    },
+    {
+        "id":32,
+        "city": "Paris",
+        "name": "Place d'Armes, 78000 Versailles (located just outside of Paris)",
+        "location": "Palace of Versailles",
+        "price": "$8700",
+        "icon": "images/prop19.jpg"
+    },
+    {
+        "id":33,
+        "city": "London",
+        "name": "RCE Theaters - 907 S Beckford Dr, Henderson, NC 27536",
+        "location": "Big Ben (Elizabeth Tower)",
+        "price": "$1400",
+        "isPopular": true,
+        "icon": "images/prop33.jpg"
+    },
+    {
+        "id":34,
+        "city": "London",
+        "name": "Riverside Building, County Hall, Westminster Bridge Rd, London",
+        "location": "The London Eye",
+        "price": "$3550",
+        "icon": "images/prop34.jpg"
+    }
+]
